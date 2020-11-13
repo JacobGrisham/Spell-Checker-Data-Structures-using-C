@@ -42,7 +42,7 @@ Analysis of results:
 - `TIME IN unload` represents the number of seconds that speller spends executing the implementation of unload. 
 - `TIME IN TOTAL` is the sum of those four measurements.
 
-- Quick use examples
+Quick use examples
 ```
 ./speller texts/tolstoy.txt
 ./speller texts/tolstoy.txt > your.txt
