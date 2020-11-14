@@ -1,4 +1,4 @@
-# Spell Checker and Data Structures using C
+# Spell Checker: Data Structures using C
 ### Homework from [Harvard's Introduction to Computer Science CS50 hosted on eDX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 ### 🎓 [Problem Set 4](https://cs50.harvard.edu/x/2020/psets/5/)
 - [Speller](https://cs50.harvard.edu/x/2020/psets/5/speller/): Program that spell-checks a file after loading a dictionary of words from disk into memory. Includes run-time data output.
